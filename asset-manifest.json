@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/campu/static/css/main.91fc7fec.css",
+    "main.js": "/campu/static/js/main.56175577.js",
+    "static/js/787.dd6527a1.chunk.js": "/campu/static/js/787.dd6527a1.chunk.js",
+    "index.html": "/campu/index.html",
+    "main.91fc7fec.css.map": "/campu/static/css/main.91fc7fec.css.map",
+    "main.56175577.js.map": "/campu/static/js/main.56175577.js.map",
+    "787.dd6527a1.chunk.js.map": "/campu/static/js/787.dd6527a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91fc7fec.css",
+    "static/js/main.56175577.js"
+  ]
+}
